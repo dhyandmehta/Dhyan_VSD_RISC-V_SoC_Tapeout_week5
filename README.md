@@ -211,5 +211,8 @@ The **Floorplan** and **Placement** stages were executed successfully.
 * Fully functional OpenROAD setup.
 * Generated visual outputs for floorplan and placement.
 
-This was done with the reference of this repo. 👇🏻
+This was done with the reference of this repo.
 https://github.com/gauravacad/WEEK-5-OPENROAD/blob/main/README.md
+
+The below image is mine
+<img width="1564" height="978" alt="Screenshot from 2025-10-30 16-41-15" src="https://github.com/user-attachments/assets/b58a23c3-0d96-4a92-a32e-019c47efab07" />
